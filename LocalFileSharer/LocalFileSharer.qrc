@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/LocalFileSharer">
+        <file alias="DefaultUser">Resources/DefaultUser.png</file>
+        <file alias="Offline">Resources/Offline.png</file>
+        <file alias="Online">Resources/Online.png</file>
+    </qresource>
+</RCC>
